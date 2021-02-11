@@ -1,7 +1,14 @@
 <!-- default file list -->
 *Files to look at*:
 
-[MainWindow.xaml](./CS/MVVM Selection/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MVVM Selection/MainWindow.xaml))
+* [MainWindow.xaml](./CS/MVVM Selection/MainWindow.xaml (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
+
+
+<!-- default file list -->
+*Files to look at*:
+
+[MainWindow.xaml](./CS/MVVMSelection/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MVVMSelection/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MVVM Selection/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MVVM Selection/MainWindow.xaml.vb))
 * [Model.cs](./CS/MVVM Selection/Model.cs) (VB: [Model.vb](./VB/MVVM Selection/Model.vb))
 * [ViewModel.cs](./CS/MVVM Selection/ViewModel.cs) (VB: [ViewModel.vb](./VB/MVVM Selection/ViewModel.vb))
