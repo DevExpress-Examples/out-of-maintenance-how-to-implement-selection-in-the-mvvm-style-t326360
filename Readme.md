@@ -4,7 +4,7 @@
 * [MainWindow.xaml](./CS/MVVM%20Selection/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MVVM%20Selection/MainWindow.xaml))
 
 * [MainWindow.xaml.cs](./CS/MVVM%20Selection/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MVVM%20Selection/MainWindow.xaml.vb))
-* [Model.cs](./CS/MVVM%20Selection/Model.cs) (VB: [Model.vb](./VB/MVVM%20 Selection/Model.vb))
+* [Model.cs](./CS/MVVM%20Selection/Model.cs) (VB: [Model.vb](./VB/MVVM%20Selection/Model.vb))
 * [ViewModel.cs](./CS/MVVM%20Selection/ViewModel.cs) (VB: [ViewModel.vb](./VB/MVVM%20Selection/ViewModel.vb))
 
 <!-- default file list end -->
